@@ -4,3 +4,5 @@ def epmployee(name: str, age: int, salary: float):
 def another_function():
     print('hello world this is another function')
     print("i really love myself very much")
+    print('i love Gold')
+ 
